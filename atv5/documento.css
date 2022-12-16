@@ -1,0 +1,28 @@
+body{
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+  background-color:darkkhaki;
+  text-align: center;
+  font-size: 20px;
+}
+.header nav{
+  background-color: #ff7f50;
+  font-family: monospace;
+  font-size: 20px;
+}
+.textImg{
+  display: flex;
+}
+.textImg img{
+  width: 200px;
+  height: 200px; 
+}
+.textImg p{
+  width: 40%;
+}
+.listImg img{
+  width: 30%;
+}
+

@@ -1,0 +1,30 @@
+div{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  font: bold;
+}
+.esqCima {
+  top: 0;
+  left: 0;
+  background-color: red;
+}
+
+.esqBaixo {
+  bottom: 0;
+  left: 0;
+  background-color: green;
+}
+
+.dirCima {
+  top: 0;
+  right: 0;
+  background-color: yellow;
+}
+
+.dirBaixo {
+  bottom: 0;
+  right: 0;
+  background-color: blue;
+}
+
